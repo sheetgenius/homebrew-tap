@@ -1,8 +1,8 @@
 class Glowy < Formula
   desc "Mermaid diagrams in glow"
   homepage "https://github.com/sheetgenius/glowy"
-  url "https://github.com/sheetgenius/glowy/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "8b6d4c3ebe49f87bbe49ed07dad61bf61a7a3dd3034171083282168233cb10a0"
+  url "https://github.com/sheetgenius/glowy/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "461a8365739dac3790ecc355ee20cc04f8ba2121a451d94487d8e47bc0bcb6b2"
   license "MIT"
   head "https://github.com/sheetgenius/glowy.git", branch: "main"
 
