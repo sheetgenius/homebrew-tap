@@ -14,8 +14,6 @@ class Glowy < Formula
   # tap formula because tap trust only covers the formula named on the command
   # line, not its dependencies from the same tap.
   resource "mermaid-ascii" do
-    version "1.6.1"
-
     on_macos do
       on_arm do
         url "https://github.com/AlexanderGrooff/mermaid-ascii/releases/download/1.6.1/mermaid-ascii_Darwin_arm64.tar.gz"
